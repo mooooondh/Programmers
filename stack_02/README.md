@@ -2,7 +2,6 @@
 ==========================
 https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3
 <div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
-
     <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p>프로그래머스 팀에서는 기능 개선 작업을 수행 중입니다. 각 기능은 진도가 100%일 때 서비스에 반영할 수 있습니다.</p>
