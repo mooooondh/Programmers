@@ -1,3 +1,5 @@
+# hash_01.py
+
 def solution(participant, completion):
     participant.sort()
     completion.sort()
