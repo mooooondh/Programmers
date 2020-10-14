@@ -2,18 +2,14 @@
 ==========================
 https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3
 <div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
-
     <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p>초 단위로 기록된 주식가격이 담긴 배열 prices가 매개변수로 주어질 때, 가격이 떨어지지 않은 기간은 몇 초인지를 return 하도록 solution 함수를 완성하세요.</p>
-
 <h5>제한사항</h5>
-
 <ul>
 <li>prices의 각 가격은 1 이상 10,000 이하인 자연수입니다.</li>
 <li>prices의 길이는 2 이상 100,000 이하입니다.</li>
 </ul>
-
 <h5>입출력 예</h5>
 <table class="table">
         <thead><tr>
@@ -28,7 +24,6 @@ https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3
 </tbody>
       </table>
 <h5>입출력 예 설명</h5>
-
 <ul>
 <li>1초 시점의 ₩1은 끝까지 가격이 떨어지지 않았습니다.</li>
 <li>2초 시점의 ₩2은 끝까지 가격이 떨어지지 않았습니다.</li>
@@ -36,9 +31,7 @@ https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3
 <li>4초 시점의 ₩2은 1초간 가격이 떨어지지 않았습니다.</li>
 <li>5초 시점의 ₩3은 0초간 가격이 떨어지지 않았습니다.</li>
 </ul>
-
 <p>※ 공지 - 2019년 2월 28일 지문이 리뉴얼되었습니다.</p>
 </div>
     </div>
-
   </div>
