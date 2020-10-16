@@ -3,7 +3,6 @@
 https://programmers.co.kr/learn/courses/30/lessons/64061
 
 <div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
-
     <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p>게임개발자인 <q>죠르디</q>는 크레인 인형뽑기 기계를 모바일 게임으로 만들려고 합니다.<br>
