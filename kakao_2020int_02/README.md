@@ -3,7 +3,6 @@
 https://programmers.co.kr/learn/courses/30/lessons/67257
 
 <div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
-
     <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p>IT 벤처 회사를 운영하고 있는 <code>라이언</code>은 매년 사내 해커톤 대회를 개최하여 우승자에게 상금을 지급하고 있습니다.<br>
