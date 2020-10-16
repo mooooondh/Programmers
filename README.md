@@ -40,7 +40,7 @@ https://github.com/mooooondh/Programmers/tree/master/kakao_2020int_01
 수식 최대화        
 https://github.com/mooooondh/Programmers/tree/master/kakao_2020int_02
 
-2020신입 개발자 블라인트 테스트
+2020신입 개발자 블라인드 테스트
 ---------------
 문자열 압축             
 https://github.com/mooooondh/baekjoon/tree/master/kakao2020test01        
