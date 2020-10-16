@@ -2,9 +2,7 @@
 =====================================
 https://programmers.co.kr/learn/courses/30/lessons/67256
 
-
 <div class="guide-section" id="tour2" style="width: calc(45.9161% - 12px);">
-
     <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p>스마트폰 전화 키패드의 각 칸에 다음과 같이 숫자들이 적혀 있습니다.</p>
