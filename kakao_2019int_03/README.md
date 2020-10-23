@@ -1,6 +1,6 @@
 불량 사용자
 ======================
-https://programmers.co.kr/learn/courses/30/lessons/64064
+출처: https://programmers.co.kr/learn/courses/30/lessons/64064
 
 <div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
     <div class="guide-section-description">
