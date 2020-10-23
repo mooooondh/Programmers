@@ -1,6 +1,6 @@
 모의고사
 ====================
-https://programmers.co.kr/learn/courses/30/lessons/42840
+출처: https://programmers.co.kr/learn/courses/30/lessons/42840
 
 <div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
     <div class="guide-section-description">
