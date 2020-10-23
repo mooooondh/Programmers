@@ -1,6 +1,6 @@
 수식 최대화
 ==================
-https://programmers.co.kr/learn/courses/30/lessons/67257
+출처: https://programmers.co.kr/learn/courses/30/lessons/67257
 
 <div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
     <div class="guide-section-description">
