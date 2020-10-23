@@ -1,6 +1,6 @@
 튜플
 ==================
-https://programmers.co.kr/learn/courses/30/lessons/64065
+출처: https://programmers.co.kr/learn/courses/30/lessons/64065
 
 <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
