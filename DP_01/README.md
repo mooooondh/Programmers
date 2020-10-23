@@ -1,13 +1,11 @@
 2xn 타일링
 =============================
-https://programmers.co.kr/learn/courses/30/lessons/12900
+출처: https://programmers.co.kr/learn/courses/30/lessons/12900
 
 <div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
-
     <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p>가로 길이가 2이고 세로의 길이가 1인 직사각형모양의 타일이 있습니다. 이 직사각형 타일을 이용하여 세로의 길이가 2이고 가로의 길이가 n인 바닥을 가득 채우려고 합니다. 타일을 채울 때는 다음과 같이 2가지 방법이 있습니다.</p>
-
 <ul>
 <li>타일을 가로로 배치 하는 경우</li>
 <li>타일을 세로로 배치 하는 경우</li>
@@ -25,7 +23,6 @@ https://programmers.co.kr/learn/courses/30/lessons/12900
 <li>가로의 길이 n은 60,000이하의 자연수 입니다.</li>
 <li>경우의 수가 많아 질 수 있으므로, 경우의 수를 1,000,000,007으로 나눈 나머지를 return해주세요.</li>
 </ul>
-
 <hr>
 
 <h5>입출력 예</h5>
@@ -57,5 +54,4 @@ https://programmers.co.kr/learn/courses/30/lessons/12900
 <p><img src="https://i.imgur.com/z64JbNf.png" title="" alt="Imgur"></p>
 </div>
     </div>
-
   </div>
