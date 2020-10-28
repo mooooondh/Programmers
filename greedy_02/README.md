@@ -3,7 +3,6 @@
 출처: https://programmers.co.kr/learn/courses/30/lessons/42884?language=python3
 
 <div class="guide-section" id="tour2" style="width: calc(40% - 12px);" aria-describedby="popover535764">
-
     <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p>고속도로를 이동하는 모든 차량이 고속도로를 이용하면서 단속용 카메라를 한 번은 만나도록 카메라를 설치하려고 합니다.</p>
@@ -39,5 +38,4 @@
 <p>-15 지점에 카메라를 설치하면 첫 번째, 세 번째 차량이 카메라를 만납니다.</p>
 </div>
     </div>
-
   </div>
