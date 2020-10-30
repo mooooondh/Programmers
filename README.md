@@ -4,11 +4,6 @@
 SQL 문제풀이는 [여기](https://github.com/mooooondh/SQL_programmers)를 눌러주세요.</br>
 </br>
 
-현재 Level
-------------------
-<img src= "https://user-images.githubusercontent.com/25631105/96589628-00e7bb00-1320-11eb-900e-a7d856d7b834.png"></img></br>
-</br>
-
 Level1
 =========================
 완주하지 못한 선수    
