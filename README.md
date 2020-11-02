@@ -53,7 +53,9 @@ https://github.com/mooooondh/Programmers/tree/master/kakao_2019int_03
 키패드 누르기                  
 https://github.com/mooooondh/Programmers/tree/master/kakao_2020int_01                     
 수식 최대화        
-https://github.com/mooooondh/Programmers/tree/master/kakao_2020int_02
+https://github.com/mooooondh/Programmers/tree/master/kakao_2020int_02       
+보석 쇼핑         
+https://github.com/mooooondh/Programmers/tree/master/kakao_2020int_03           
 
 2020신입 개발자 블라인드 테스트
 ---------------
