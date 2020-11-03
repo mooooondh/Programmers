@@ -4,7 +4,7 @@ def solution(gems):
     end= 0
     kind_gem= list(set(gems))
     gem= [0]+ gems
-    answer= [0, 100001]
+    answer= [0, 123456]
 
     check_s, check_e = 0, 0
 
@@ -32,12 +32,3 @@ def solution(gems):
                     check_s, check_e = 0, 0
                     break
     return answer
-
-# print(solution(["DIA", "RUBY", "RUBY", "DIA", "DIA", "EMERALD", "SAPPHIRE", "DIA"]))
-
-
-a= ["a", "b", "c"]
-b= ["r", "z", "c", "a", "a", "g", "b"]
-
-if a[0] in b:
-    print(1)
