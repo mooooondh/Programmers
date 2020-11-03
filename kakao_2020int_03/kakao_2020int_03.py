@@ -2,8 +2,7 @@
 
 def solution(gems):
     end= 0
-    s_e_point= []
-    kind_gem= sorted(list(set(gems)))
+    kind_gem= list(set(gems))
     gem= [0]+ gems
     answer= [0, 100001]
 
@@ -23,22 +22,22 @@ def solution(gems):
             for i in kind_gem:
                 if i not in gem[start: end+ 1] or start== end:
                     if(start== 1):
-                        s_e_point.append(start)
+                        if ((answer[1] - answer[0]) > (end - start)):
+                            answer[0] = start
+                            answer[1] = end
                     else:
-                        s_e_point.append(start- 1)
-                    s_e_point.append(end)
+                        if ((answer[1] - answer[0]) > (end - (start- 1))):
+                            answer[0] = start- 1
+                            answer[1] = end
                     check_s, check_e = 0, 0
                     break
-
-    for i in range(0, len(s_e_point), 2):
-        if((answer[1]- answer[0])> (s_e_point[i+ 1]- s_e_point[i])):
-            answer[0]= s_e_point[i]
-            answer[1]= s_e_point[i+ 1]
-
     return answer
 
+# print(solution(["DIA", "RUBY", "RUBY", "DIA", "DIA", "EMERALD", "SAPPHIRE", "DIA"]))
 
 
+a= ["a", "b", "c"]
+b= ["r", "z", "c", "a", "a", "g", "b"]
 
-
-print(solution(["ZZZ", "YYY", "NNNN", "YYY", "BBB"]))
+if a[0] in b:
+    print(1)
