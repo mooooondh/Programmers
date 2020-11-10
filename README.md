@@ -48,7 +48,9 @@ https://github.com/mooooondh/Programmers/tree/master/kakao_2019int_02
 불량 사용자           
 https://github.com/mooooondh/Programmers/tree/master/kakao_2019int_03          
 징검다리 건너기              
-https://github.com/mooooondh/Programmers/tree/master/kakao_2019int_04
+https://github.com/mooooondh/Programmers/tree/master/kakao_2019int_04            
+호텔 방 배정                 
+https://github.com/mooooondh/Programmers/tree/master/kakao_2019int_05                
 
 2020년 카카오 여름 인턴십
 ---------------
