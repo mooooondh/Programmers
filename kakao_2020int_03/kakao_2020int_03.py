@@ -1,34 +1,34 @@
-# kaka0_2020int_03.py
+# kakao_2020int_03.py
 
 def solution(gems):
-    end= 0
-    kind_gem= list(set(gems))
-    gem= [0]+ gems
     answer= [0, 123456]
+    kind_gem= len(set(gems))
+    start, end= 0, 0
+    dict_gem= {gems[0]: 1}
 
-    check_s, check_e = 0, 0
+    while(start< len(gems) and end< len(gems)):
+        if(len(dict_gem)== kind_gem):
+            if(answer[1]- answer[0]> end- start):
+                answer[0]= start
+                answer[1]= end
+            if(dict_gem[gems[start]]== 1):
+                del dict_gem[gems[start]]
+            else:
+                dict_gem[gems[start]]-= 1
+            start+= 1
+        else:
+            end+= 1
+            if(end== len(gems)):
+                break
+            else:
+                if(dict_gem.get(gems[end]) is None):
+                    dict_gem[gems[end]]= 1
+                else:
+                    dict_gem[gems[end]]+= 1
 
-    for start in range(len(gem)):
-        while(len(gem)> end and check_e== 0):
-            for i in kind_gem:
-                if i in gem[start: end+ 1]:
-                    check_e+= 1
+    answer[0]+= 1
+    answer[1]+= 1
 
-            if(check_e!= len(kind_gem)):
-                end += 1
-                check_e= 0
-
-        if(start<= end and check_e!= 0):
-            for i in kind_gem:
-                if i not in gem[start: end+ 1] or start== end:
-                    if(start== 1):
-                        if ((answer[1] - answer[0]) > (end - start)):
-                            answer[0] = start
-                            answer[1] = end
-                    else:
-                        if ((answer[1] - answer[0]) > (end - (start- 1))):
-                            answer[0] = start- 1
-                            answer[1] = end
-                    check_s, check_e = 0, 0
-                    break
     return answer
+
+print(solution(["DIA", "RUBY", "RUBY", "DIA", "DIA", "EMERALD", "SAPPHIRE", "DIA"]))
