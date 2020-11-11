@@ -37,7 +37,9 @@ Level3
 정수 삼각형                            
 <https://github.com/mooooondh/Programmers/tree/master/DP_02>                 
 단속 카메라       
-<https://github.com/mooooondh/Programmers/tree/master/greedy_02>                        
+<https://github.com/mooooondh/Programmers/tree/master/greedy_02>             
+가장 먼 노드                  
+<https://github.com/mooooondh/Programmers/tree/master/Graph_01>
 
 Kakao 문제
 =========================
