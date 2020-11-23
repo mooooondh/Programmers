@@ -3,7 +3,6 @@
 출처: https://programmers.co.kr/learn/courses/30/lessons/42746
 
 <div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
-
     <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p>0 또는 양의 정수가 주어졌을 때, 정수를 이어 붙여 만들 수 있는 가장 큰 수를 알아내 주세요.</p>
