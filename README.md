@@ -33,7 +33,9 @@ Level2
 카펫              
 <https://github.com/mooooondh/Programmers/tree/master/BF_03>              
 가장 큰 수           
-<https://github.com/mooooondh/Programmers/tree/master/Sort_02>
+<https://github.com/mooooondh/Programmers/tree/master/Sort_02>              
+구명보트               
+<https://github.com/mooooondh/Programmers/tree/master/greedy_04>
 
 Level3
 ===========================
