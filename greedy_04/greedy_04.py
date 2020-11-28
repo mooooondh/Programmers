@@ -1,5 +1,3 @@
-import math
-
 def solution(people, limit):
     answer = 0
     weight= sorted(people, reverse= True)
