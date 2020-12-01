@@ -35,7 +35,9 @@ Level2
 가장 큰 수           
 <https://github.com/mooooondh/Programmers/tree/master/Sort_02>              
 구명보트               
-<https://github.com/mooooondh/Programmers/tree/master/greedy_04>
+<https://github.com/mooooondh/Programmers/tree/master/greedy_04>         
+짝지어 제거하기             
+<https://github.com/mooooondh/Programmers/tree/master/greedy_05>
 
 Level3
 ===========================
