@@ -1,9 +1,4 @@
-#
-# def fiv(num):
-#     if(num<= 2):
-#         return 1
-#     else:
-#         return fiv(num- 1)+ fiv(num- 2)
+# BF_04.py
 
 def solution(n):
     fib= [1, 1]
@@ -15,5 +10,3 @@ def solution(n):
         fib.append(fib[i- 1]+ fib[i- 2])
 
     return fib[-1]%1234567
-
-print(solution(3))
