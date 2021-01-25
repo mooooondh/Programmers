@@ -54,7 +54,9 @@ Level3
 큰 수 만들기                  
 <https://github.com/mooooondh/Programmers/tree/master/greedy_03>             
 네트워크         
-<https://github.com/mooooondh/Programmers/blob/master/Graph_02>
+<https://github.com/mooooondh/Programmers/blob/master/Graph_02>        
+섬 연결하기               
+<https://github.com/mooooondh/Programmers/tree/master/greedy_06>
 
 Kakao 문제
 =========================
