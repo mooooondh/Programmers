@@ -13,6 +13,10 @@ def solution(bridge_length, weight, truck_weights):
         while(len(truck_weights)!= 0 and sum(bridge) + truck_weights[0] <=  weight):
             bridge.append(truck_weights.pop(0))
             time+= 1
+            if (time >= bridge_length):
+                bridge.popleft()
+                answer += 1
+                time -= 1
 
         if (time>= bridge_length):
             bridge.popleft()
